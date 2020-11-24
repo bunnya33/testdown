@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://39.106.51.209:8998/ipa.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://39.106.51.209:8998/icon.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.hainanzhiyun.poker</string>
+                <key>bundle-version</key>
+                <string>4.6.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>子标题</string>
+                <key>title</key>
+                <string>传奇扑克</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
